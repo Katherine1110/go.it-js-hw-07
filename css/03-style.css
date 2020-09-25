@@ -1,0 +1,6 @@
+#gallery {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  padding-left: 0;
+}
